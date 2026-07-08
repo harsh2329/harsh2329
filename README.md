@@ -23,6 +23,6 @@ I’m an enthusiastic and innovative Full Stack Developer with a strong command 
 
 ---
 ## 👀 Profile Visit Count
-[![Profile Views](https://visitcount.itsvg.in/api?id=harsh2329&icon=0&color=3)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=harsh2329&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
